@@ -6,7 +6,7 @@ Proses pembuatan id akan menggunakan sebuah fungsi bernama converter yang tugasn
 menjadi id, sekaligus meng-output id dengan format yang sudah ditentukan.
 Proses konversi dalam fungsi converter mengikuti format berikut :
 Angka hasil convert:
-(huruf pertama nama * umur + huruf pertama fav_food + 1000 - umur + huruf pertama fav_food * (huruf pertama nama + huruf pertama fav_food)
+(huruf pertama nama * umur + huruf pertama fav_food) + 1000 - umur + huruf pertama fav_food * (huruf pertama nama + huruf pertama fav_food)
 
 Dan id dengan format : (huruf pertama nama)(huruf kedua fav_food)(angka)(huruf kedua nama)(huruf pertama fav_food)
 
