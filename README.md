@@ -12,10 +12,10 @@ Dan id dengan format : (huruf pertama nama)(huruf kedua fav_food)(angka)(huruf k
 
 Berikut contoh format output pada terminal
 
-----------------------------------------------\n
-|\n
-|  ID             : is31585932sa\n
-|  Name           : Hisam\n
-|  Favorite Food  : Nasi\n
-|\n
-----------------------------------------------\n
+----------------------------------------------
+|
+|  ID             : is31585932sa
+|  Name           : Hisam
+|  Favorite Food  : Nasi
+|
+----------------------------------------------
