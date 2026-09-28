@@ -12,10 +12,5 @@ Dan id dengan format : (huruf pertama nama)(huruf kedua fav_food)(angka)(huruf k
 
 Berikut contoh format output pada terminal
 
-----------------------------------------------
-|
-|  ID             : is31585932sa
-|  Name           : Hisam
-|  Favorite Food  : Nasi
-|
-----------------------------------------------
+<img width="2168" height="1544" alt="Screenshot 2026-09-28 104748" src="https://github.com/user-attachments/assets/c8a5efe1-5163-4f71-95e8-1d3dc4ace74d" />
+
